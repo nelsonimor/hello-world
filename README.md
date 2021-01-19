@@ -1,5 +1,4 @@
 # hello-world
 Just another repository
 
-This is a test on readme-edits branch
-sixth test
+2020-01-19 : This is a test on readme-edits branch
