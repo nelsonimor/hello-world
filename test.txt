@@ -1,1 +1,0 @@
-sdonc version : this is a test init localy
